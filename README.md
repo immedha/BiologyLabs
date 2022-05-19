@@ -6,5 +6,5 @@ The TAS2R38 gene allows certain individuals to taste the molecule Phenylthiocarb
 **For _Lac_ Operon Lab Report:**
 This lab introduces gene regulation through exploration of the lac operon. Three E. coli cultures were used: one was grown in the presence of lactose, one in glucose, and one in the presence of both. These cultures were tested to have β-galactosidase activity, an enzyme that breaks down lactose into two simpler sugars, glucose and galactose. See the Lac Operon Students Manual, attached, for background. 
 
-**For Genetics Lab Report: **
+**For Genetics Lab Report:**
 This lab explored Mendelian genetics using the inheritance of the plant _Brassica rapa_. The primary research question was, do the stem color (ANL gene) and stem height (ROS gene) genes of _B. rapa_ follow the rules of Mendelian genetics? P1, F1, and F2 generations of the _B. rapa_ plants were grown, and inheritance patterns were observed to conclude whether or not they followed the rules of Mendelian genetics.
